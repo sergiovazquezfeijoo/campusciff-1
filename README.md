@@ -128,8 +128,10 @@
 ## Meter a github.com/asanzdiego y a otros 2 de vuestros compañeros de clase en el equipo colaboradores.
 - Done
 
-## Crear un index.html que se pueda ver como página web en la organización
+![Teams](img/teams.png)
 
+## Crear un index.html que se pueda ver como página web en la organización
+<http://campusciff-ulisesojeda.github.io/>
 
 
 
