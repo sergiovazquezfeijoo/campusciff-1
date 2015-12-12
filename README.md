@@ -11,4 +11,7 @@
 - git add .
 - git commit -m "commit initial"
 
+##Subir los cambios al repositorio remoto
+- git push origin master
+
 
