@@ -92,6 +92,9 @@
 #Poner el doble factor de autentificación en vuestra cuenta de GitHub.
 ![Two Factor](img/two_factor.png)
 
+# Añadir (si no lo habéis hecho ya) la clave pública que se corresponde a tu ordenador.
+![Two Factor](img/ssh_key.png)
+
 
 
 
