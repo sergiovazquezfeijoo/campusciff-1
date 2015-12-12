@@ -7,3 +7,8 @@
 
 ##Clonar vuestro repositio en local: git clone git@github.com:ulisesojeda/campusciff.git
 
+##Añadir al README.md los comanddos utilizados hasta ahora y hacer un coomit inicial con el mensaje commit inicial.
+git add .
+git commit -m "commit initial"
+
+
