@@ -133,6 +133,23 @@
 ## Crear un index.html que se pueda ver como página web en la organización
 <http://campusciff-ulisesojeda.github.io/>
 
+## Hacer 2 forks de 2 repositorios campuscifftunombredeusuariodegithub.github.io de 2 organizaciones de las que no seais ni administradiores ni colaboradores.
+![Forks](img/forks.png)
+
+##  Crearos una rama en cada fork.
+- Done
+
+## En cada rama modificar el fichero index.html añadiendo vuestro nombre.
+- Done
+
+## Con cada rama hacer un pull-request
+![Pull Request1](img/pull_request1.png)
+
+![Pull Request2](img/pull_request2.png)
+
+## Aceptar los pull-request que lleguen a los repositorios de tu organización.
+- Done
+
 
 
 
