@@ -62,7 +62,36 @@
 - git checkout v0.2
 - Modificar fichero1.txt con vim
 - git add .
-- git commit -m "Modified fichero1.txt on branch v0.2"
+
+## Posicionarse de nuevo en la rama master y hacer un merge con la rama v0.2 
+- git checkout master
+- git merge v0.2
+
+## Listar las ramas con merge y las ramas sin merge
+- git branch --merged
+- git branch --no-merged
+
+##  Arreglar el conflicto anterior y hacer un commit
+- Utilizar vim para eliminar las marcas de las diferentes branchs.
+- git add .
+- git commit -m "Solved conflit during merge"
+
+## Crear un tag v0.2. Nota: Se utiliza v0.3 pués v0.2 fue creada durante la sesión de clases.
+- git branch v0.3
+
+## Borrar la rama v0.2. Nota: Idem
+- git branch -d v0.3
+
+## Listar los distintos commits con sus ramas y sus tags.
+- git config --global alias.list 'log --oneline --decorate --graph --all'
+- git list
+
+# Poner una foto en vuestro perfil de GitHub.
+- Done
+
+#Poner el doble factor de autentificación en vuestra cuenta de GitHub.
+![Two Factor](img/two_factor.png)
+
 
 
 
