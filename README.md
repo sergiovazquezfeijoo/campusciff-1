@@ -15,4 +15,18 @@
 ##Subir los cambios al repositorio remoto
 - git push origin master
 
+##Crear en el repositorio local un fichero llamado privado.txt
+- touch privado.txt
+
+##Crear en el repositorio local una carpeta llamada privada.
+- mkdir privada
+
+##Realizar los cambios oportunos para que tanto el archivo como la carpeta sean ignorados por git.
+- Para que los ficheros sean ignorados por git deben ser incluidos en fichero .gitignore
+
+##Añadir fichero1.txt al repositorio local
+- touch fichero1.txt
+
+
+
 
