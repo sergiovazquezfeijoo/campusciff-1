@@ -4,6 +4,5 @@
 
 ![Crear Repo2](img/create_repo2.png)
 
-2. Clonar vuestro repositio en local.
-git clone git@github.com:ulisesojeda/campusciff.git
+1. Clonar vuestro repositio en local: git clone git@github.com:ulisesojeda/campusciff.git
 
