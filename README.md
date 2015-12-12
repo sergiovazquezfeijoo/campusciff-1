@@ -93,10 +93,10 @@
 ![Two Factor](img/two_factor.png)
 
 # Añadir (si no lo habéis hecho ya) la clave pública que se corresponde a tu ordenador.
-![Two Factor](img/ssh_key.png)
+![SSH Key](img/ssh_key.png)
 
 # Preguntar los nombres de usuario de GitHub de tus compañeros de clase, búscalos, y sigueles.
-![Two Factor](img/following.png)
+![Following](img/following.png)
 
 # Seguir los repositorios campusciff del resto de tus compañeros.
 - Done
@@ -107,12 +107,14 @@
 # Crear una tabla de este estilo en el fichero README.md con la información de varios de tus compañeros de clase
 | NOMBRE | GITHUB |
 | ------ | ------ |
-| Pablo Lopez | -<https://github.com/plopez76/> |
-| David Pacheco | -<https://github.com/davpacheco/> |
-| Diego Martin | -<https://github.com/diegomartincastellanos/> |
-| Sergio Torres | -<https://github.com/sergiotorrespalomino/> |
-| Patricia Iglesias | -<https://github.com/Pimateos/> |
+| Pablo Lopez | <https://github.com/plopez76/> |
+| David Pacheco | <https://github.com/davpacheco/> |
+| Diego Martin | <https://github.com/diegomartincastellanos/> |
+| Sergio Torres | <https://github.com/sergiotorrespalomino/> |
+| Patricia Iglesias | <https://github.com/Pimateos/> |
 
+# Poner a github.com/asanzdiego como colaborador del repositorio campusciff
+![Collaborator](img/collaborator.png)
 
 
 
