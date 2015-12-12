@@ -1,4 +1,4 @@
-#Data Science Toolkit. Ejercicios Git - Github - MArkdown. CIFF
+#Data Science Toolkit. Ejercicios Git - Github - Markdown. CIFF
 ##Crear repositorio campusciff. Nota: El repo campusciff fue creado durante la sesión de clases. A modo de ilustración se muestran los pasos para crear el repo campusciff2.
 
 ![Crear Repo1](img/create_repo1.png)
@@ -94,6 +94,9 @@
 
 # Añadir (si no lo habéis hecho ya) la clave pública que se corresponde a tu ordenador.
 ![Two Factor](img/ssh_key.png)
+
+# Preguntar los nombres de usuario de GitHub de tus compañeros de clase, búscalos, y sigueles.
+![Two Factor](img/following.png)
 
 
 
