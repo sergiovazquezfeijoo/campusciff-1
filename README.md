@@ -27,6 +27,46 @@
 ##Añadir fichero1.txt al repositorio local
 - touch fichero1.txt
 
+## Crear un tag v0.1
+- git tag -a v0.1 -m "On tag v0.1"
+
+## Subir los cambios al repositorio remoto
+- git push --tag origin master
+
+## Crear una rama v0.2
+- git branch v0.2
+
+## Posiciona tu carpeta de trabajo en esta rama
+- git checkout v0.2
+
+## Añadir un fichero2.txt en la rama v0.2
+- touch fichero2.txt
+
+## Subir los cambios al repositorio remoto
+- git add .
+- git commit -m "Added fichero1.txt and fichero2.txt"
+- git push origin v0.2
+
+## Posicionarse en la rama master
+- git checkout master
+
+## Hacer un merge de la rama v0.2 en la rama master
+- git merge v0.2
+
+## En la rama master poner Hola en el fichero 1.txt y hacer commit.
+- Utilizar vim para modificar fichero1.txt
+- git add .
+- git commit -m "Modified fichero1.txt"
+
+## Posicionarse en la rama v0.2 y poner Adios en el fichero 1.txt y hacer commit
+- git checkout v0.2
+- Modificar fichero1.txt con vim
+- git add .
+- git commit -m "Modified fichero1.txt on branch v0.2"
+
+
+
+
 
 
 
