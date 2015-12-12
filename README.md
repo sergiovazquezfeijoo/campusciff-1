@@ -116,6 +116,19 @@
 # Poner a github.com/asanzdiego como colaborador del repositorio campusciff
 ![Collaborator](img/collaborator.png)
 
+# Crear una organización llamada campusciff-tunombredeusuariodegithub
+- Done
+
+# Crear 2 equipos en la organización campusciff-tunombredeusuariodegithub, uno llamado administradores con más permisos y otro colaboradores con menos permisos.
+- Done
+
+## Meter a github.com/asanzdiego y a 2 de vuestros compañeros de clase en el equipo administradores.
+- Done
+
+## Meter a github.com/asanzdiego y a otros 2 de vuestros compañeros de clase en el equipo colaboradores.
+- Done
+
+## Crear un index.html que se pueda ver como página web en la organización
 
 
 
