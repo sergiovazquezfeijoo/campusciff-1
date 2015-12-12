@@ -120,16 +120,14 @@
 - Done
 
 # Crear 2 equipos en la organización campusciff-tunombredeusuariodegithub, uno llamado administradores con más permisos y otro colaboradores con menos permisos.
-- Done
+![Teams](img/teams.png)
 
 ## Meter a github.com/asanzdiego y a 2 de vuestros compañeros de clase en el equipo administradores.
 - Done
 
 ## Meter a github.com/asanzdiego y a otros 2 de vuestros compañeros de clase en el equipo colaboradores.
 - Done
-
-![Teams](img/teams.png)
-
+- 
 ## Crear un index.html que se pueda ver como página web en la organización
 <http://campusciff-ulisesojeda.github.io/>
 
