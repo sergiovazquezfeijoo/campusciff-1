@@ -107,11 +107,11 @@
 # Crear una tabla de este estilo en el fichero README.md con la información de varios de tus compañeros de clase
 | NOMBRE | GITHUB |
 | ------ | ------ |
-| Pablo Lopez | <https://github.com/plopez76/> |
-| David Pacheco | <https://github.com/davpacheco/> |
-| Diego Martin | <https://github.com/diegomartincastellanos/> |
-| Sergio Torres | <https://github.com/sergiotorrespalomino/> |
 | Patricia Iglesias | <https://github.com/Pimateos/> |
+| Ulises Ojeda | <https://github.com/ulisesojeda/> |
+| David Pacheco | <https://github.com/davpacheco/> |
+| Sergio Torres | <https://github.com/sergiotorrespalomino/> |
+
 
 # Poner a github.com/asanzdiego como colaborador del repositorio campusciff
 ![Collaborator](img/collaborator.png)
